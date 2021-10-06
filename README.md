@@ -1,2 +1,2 @@
-# t-019-tottc
-The Over The Top Clock
+# t-019-bctott
+Binary Clock Thats Over The Top
