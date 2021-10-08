@@ -1,6 +1,7 @@
 # t-019-bctott
 Binary Clock Thats Over The Top
 
+
 ## v01.00 
 
 ### features  
@@ -39,4 +40,5 @@ Binary Clock Thats Over The Top
 * sync to timezone 
 * send data log of up-time/temp/humid back to host computer
 * python/c app to set time via bluetooth
+
 
